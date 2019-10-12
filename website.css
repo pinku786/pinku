@@ -1,0 +1,29 @@
+BODY{background-image: url("https://nitk.acm.org/images/ACM_logo.svg.png");background-repeat: no-repeat;background-color: rgb(48, 114, 175)
+    ;}
+    
+    body {
+      margin: 0;
+      background-color: #000;
+      div {
+        animation: mymove 5s infinite;animation-delay: 10s;
+      }
+      }.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        .marginauto {
+          margin: 10px auto 20px;
+          display: block;
+      }img {
+        border-radius: 50%;
+      }hr {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        }p {
+          animation-duration: 3s;
+          animation-name: slidein;
+          animation-iteration-count: infinite;
+        }
+    
